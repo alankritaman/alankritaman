@@ -9,6 +9,4 @@
 <br/>
 
 
-<br/>
 ### I am more about process, people and mindset rather than tools and technology, that being said now come and read all the technologies I find interesting :laughing:
-<br/>
