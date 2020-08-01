@@ -10,3 +10,11 @@
 
 
 ### I am more about process, people and mindset rather than tools and technology, that being said now come and read all the technologies I find interesting :laughing:
+<!--
+For future use
+- 🔭 First Blog Fastlane Link
+- 🔥 Second Blog Slack Devops Bot 
+- 👯 Third Blog Google DevOps Bot 
+- 💬 Blog Devops Roadmap 
+- 📃 
+-->
